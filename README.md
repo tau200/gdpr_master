@@ -16,5 +16,5 @@ The files are stored in the folder Data, which contains two files; the data file
 
 ## Contributing
 
-**Tina Marjanov:** 
+**[Tina Marjanov](https://www.cst.cam.ac.uk/people/tm794)** 
 For any questions, please email me here **marjanov.tina@gmail.com**.
