@@ -1,6 +1,6 @@
 ## Description
 
-This depository includes the raw data used in Marjanov T., Konstantinou M., Jóźwiak, M. & Spagnuelo D. (2023). [Data Security on the Ground: Investigating Technical and Legal Requirements under the GDPR](here_goes_link_when_published). *Proceedings on Privacy Enhancing Technologies*, 3(): pp-pp
+This repository includes the raw data used in Marjanov T., Konstantinou M., Jóźwiak, M. & Spagnuelo D. (2023). [Data Security on the Ground: Investigating Technical and Legal Requirements under the GDPR](here_goes_link_when_published). *Proceedings on Privacy Enhancing Technologies*, 3(): pp-pp
 
 ### Abstract
 
