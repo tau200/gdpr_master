@@ -11,8 +11,8 @@ The GDPR has been in force since 2018, but there is still uncertainty about how 
 The files are stored in the folder Data, which contains two files; the data file and a codebook describing the variables.
 
 1. Data
-   * Experimental Data.csv (*The coded data from the annotated cases in csv format*)
-   * Experimental Codebook.md (*Codebook for ```Experimental Data.csv```*)
+   * Data.csv (*The coded data from the annotated cases in csv format*)
+   * Codebook.md (*Codebook for ```Experimental Data.csv```*)
 
 ## Contributing
 
